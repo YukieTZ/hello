@@ -9,3 +9,6 @@ Mujer, 1.57, 26 años, medio asiatica, estudie tecnologo en electrotecnia, ingen
 # Hola, soy un intruso
 
 Miguel Ángel, el más buena onda de MCD
+
+
+La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
