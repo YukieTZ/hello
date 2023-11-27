@@ -12,3 +12,6 @@ Miguel Ángel, el más buena onda de MCD
 
 
 La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
+
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
